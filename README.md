@@ -30,4 +30,5 @@ Next, add the following code before the closing `<body>` tag:
 Also, make sure to add the slick.js and slick.min.js files as assets.
 
 Once that is done, you're ready to build your slider!
-In this scenario, my client was using a modified version of the 'Debut' theme. See the collection-slider.liquid and slider-styling.css files to see how I configured mine to adapt to her existing theme.
+
+In this particular scenario, my client was using a modified version of the 'Debut' theme and wanted a customizable section that she could manage herself without any hard coding required. See the collection-slider.liquid and slider-styling.css files to see how I created and styled the slider to work as a section within the existing theme.
