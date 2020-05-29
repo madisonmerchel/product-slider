@@ -1,7 +1,8 @@
 # product-slider
-Product slider for Shopify using the 'Slick' Javascript library! 
+Quick and easy product slider, designed to be used as a section with Shopify themes. 
 
-Before getting started, you will need to add a few snippets of code to your theme.liquid file. 
+This slider utilizes the 'Slick' Javascript library, so you will need to add a few snippets of code to your theme.liquid file before getting started. 
+
 First, add the following code before the closing `<head>` tag:
 
 ```html
